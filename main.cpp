@@ -171,9 +171,6 @@ void initFunc() {
     // Configuracion de etapas del cauce
     glEnable(GL_DEPTH_TEST);
     glShadeModel(GL_SMOOTH);
-    
-    // Configuracion de la iluminacion    
-            //configuramos la posicion de la luz 1
 
 }
 
