@@ -4,7 +4,7 @@ Autor: Guillermo Ramos Valverde.
 Desarrollado en OpenGL y C++.
 
 Controles del teclado:
-	-La cómara se maneja con las teclas "w","a","s","d" como si fueran teclas direccionales.
+	-La cámara se maneja con las teclas "w","a","s","d" como si fueran teclas direccionales.
 	-Se puede hacer zoom in con "i" y zoom out con "o".
 	-La velocidad de rotación se maneja con las teclas "+" y "-" (se puede invertir la rotación).
 	-Las órbitas se pueden ocultar/mostrar con la tecla "espacio".
@@ -14,4 +14,4 @@ Notas de versión:
 
 	Ilumiación ambiental.
 	Mejoras de rendimiento.
-        Orbitas monocromaticas.
+        Órbitas monocromaticas.
